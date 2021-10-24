@@ -11,7 +11,7 @@ import java.util.Properties;
 
 public class ReadPropertyFile {
 	private static Properties prop;
-	private final String propertyFilePath = "src/test/java/shopping/enviroment.properties";
+	private final String propertyFilePath = "src/test/java/slot/enviroment.properties";
 
 	public ReadPropertyFile() {
 		prop = new Properties();
